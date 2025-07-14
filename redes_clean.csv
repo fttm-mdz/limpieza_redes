@@ -1,0 +1,101 @@
+campaña_id,cliente,red_social,mes_inicio,año_campaña,presupuesto_usd,clics,conversiones,responsable,segmento_objetivo
+001,FastFit,instagram,octubre,2024,1139.36,285,187,,adultos mayores
+002,EcoVida,twitter,diciembre,2024,1314.81,344,89,Jorge Ruiz,adultos mayores
+003,FastFit,tiktok,septiembre,2024,2925.79,936,61,No asignado,adultos mayores
+004,TecnoMundo,facebook,mayo,2023,2478.86,379,125,No asignado,adultos mayores
+005,FastFit,facebook,julio,2023,1672.2,482,70,,jóvenes
+006,FastFit,instagram,marzo,2023,1431.13,949,130,,adolescentes
+007,Salud Total,tiktok,febrero,2024,1322.81,224,22,Luis Gómez,adolescentes
+008,EcoVida,facebook,noviembre,2023,2380.8,398,119,Ana Martínez,padres de familia
+009,EstiloPro,twitter,febrero,2023,1659.0,581,21,,profesionistas
+010,TecnoMundo,twitter,marzo,2023,1575.06,446,174,Luis Gómez,adolescentes
+011,EcoVida,facebook,mayo,2023,896.37,304,20,María Torres,profesionistas
+012,Salud Total,twitter,junio,2023,2704.76,439,79,Ana Martínez,profesionistas
+013,FastFit,instagram,agosto,2024,1608.16,916,142,María Torres,jóvenes
+014,EstiloPro,twitter,junio,2023,976.15,776,85,María Torres,adolescentes
+015,TecnoMundo,twitter,octubre,2024,1404.02,910,24,Ana Martínez,adolescentes
+016,Salud Total,tiktok,enero,2023,947.91,897,175,María Torres,profesionistas
+017,FastFit,twitter,agosto,2023,2062.63,642,103,Jorge Ruiz,profesionistas
+018,EcoVida,tiktok,septiembre,2023,1375.91,366,190,Jorge Ruiz,adultos mayores
+019,TecnoMundo,instagram,febrero,2024,1179.84,830,123,Ana Martínez,profesionistas
+020,FastFit,instagram,diciembre,2023,2546.13,620,67,Ana Martínez,adultos mayores
+021,EstiloPro,twitter,agosto,2023,2146.29,188,26,María Torres,adolescentes
+022,EstiloPro,facebook,marzo,2024,2213.14,560,129,No asignado,profesionistas
+023,Salud Total,tiktok,septiembre,2023,2629.06,630,49,María Torres,adultos mayores
+024,EstiloPro,twitter,febrero,2024,1231.86,664,80,Luis Gómez,profesionistas
+025,EstiloPro,INSTAGRAM,marzo,2024,2653.57,677,20,Ana Martínez,jóvenes
+026,EstiloPro,tiktok,octubre,2023,1895.68,742,149,María Torres,profesionistas
+027,TecnoMundo,facebook,marzo,2024,1714.37,575,62,María Torres,padres de familia
+028,FastFit,tiktok,marzo,2024,1932.96,208,91,Luis Gómez,adolescentes
+029,EcoVida,tiktok,abril,2023,2589.65,691,194,María Torres,adultos mayores
+030,FastFit,tiktok,enero,2023,2879.51,617,127,,adultos mayores
+031,EcoVida,twitter,septiembre,2023,2663.78,541,44,María Torres,profesionistas
+032,Salud Total,twitter,septiembre,2024,961.77,616,125,No asignado,profesionistas
+033,,tiktok,junio,2024,2027.23,474,46,Luis Gómez,padres de familia
+034,FastFit,tiktok,septiembre,2024,1127.67,627,45,María Torres,padres de familia
+035,EstiloPro,twitter,septiembre,2024,2359.23,406,131,Ana Martínez,profesionistas
+036,TecnoMundo,tiktok,mayo,2023,2387.08,697,132,Luis Gómez,padres de familia
+037,Salud Total,facebook,octubre,2023,1219.73,551,90,Jorge Ruiz,adultos mayores
+038,EcoVida,facebook,diciembre,2023,1941.1,674,93,Jorge Ruiz,padres de familia
+039,EstiloPro,twitter,noviembre,2024,2142.17,296,73,María Torres,padres de familia
+040,Salud Total,tiktok,junio,2024,1567.37,914,194,María Torres,profesionistas
+041,FastFit,instagram,mayo,2023,1432.79,831,30,María Torres,adolescentes
+042,FastFit,twitter,marzo,2023,2154.49,700,71,Luis Gómez,jóvenes
+043,EcoVida,twitter,diciembre,2024,1021.2,889,45,Ana Martínez,padres de familia
+044,EcoVida,tiktok,noviembre,2023,2463.0,394,92,María Torres,jóvenes
+045,TecnoMundo,instagram,julio,2023,2854.63,137,111,Jorge Ruiz,adultos mayores
+046,TecnoMundo,twitter,octubre,2023,2842.6,443,82,Jorge Ruiz,padres de familia
+047,FastFit,INSTAGRAM,febrero,2024,1157.49,569,175,María Torres,adultos mayores
+048,Salud Total,instagram,octubre,2024,2619.38,627,93,Ana Martínez,adolescentes
+049,Salud Total,facebook,mayo,2024,1318.15,871,78,María Torres,profesionistas
+050,Salud Total,facebook,noviembre,2023,1823.87,263,113,No asignado,profesionistas
+051,Salud Total,instagram,marzo,2024,1137.01,865,165,María Torres,adolescentes
+052,Salud Total,instagram,noviembre,2023,1956.11,640,190,María Torres,jóvenes
+053,Salud Total,instagram,marzo,2024,2679.87,552,39,Luis Gómez,padres de familia
+054,Salud Total,tiktok,agosto,2023,2029.35,788,88,,adolescentes
+055,EcoVida,twitter,diciembre,2023,1990.56,161,27,Jorge Ruiz,jóvenes
+056,EcoVida,twitter,julio,2024,2713.16,486,106,Ana Martínez,padres de familia
+057,EcoVida,instagram,diciembre,2023,2636.61,874,15,María Torres,adolescentes
+058,Salud Total,tiktok,junio,2023,1406.43,996,195,Ana Martínez,jóvenes
+059,TecnoMundo,instagram,abril,2023,1021.97,134,124,,jóvenes
+060,TecnoMundo,instagram,septiembre,2024,1315.16,849,157,María Torres,padres de familia
+061,Salud Total,instagram,julio,2024,1405.34,670,161,,adolescentes
+062,EcoVida,twitter,diciembre,2024,1698.17,407,106,Luis Gómez,padres de familia
+063,EcoVida,facebook,septiembre,2024,2929.13,670,145,Luis Gómez,adolescentes
+064,FastFit,FACEBOOK,septiembre,2023,913.38,486,182,No asignado,padres de familia
+065,EstiloPro,instagram,agosto,2023,2712.84,440,87,Ana Martínez,adultos mayores
+066,EcoVida,instagram,diciembre,2023,1672.59,345,151,María Torres,profesionistas
+067,EstiloPro,tiktok,agosto,2023,2566.2,839,130,María Torres,adultos mayores
+068,Salud Total,facebook,mayo,2024,1449.42,300,94,Luis Gómez,adolescentes
+069,FastFit,twitter,agosto,2024,1813.82,850,100,Luis Gómez,adultos mayores
+070,TecnoMundo,facebook,febrero,2023,2481.55,522,45,,jóvenes
+071,EstiloPro,TIKTOK,noviembre,2024,834.61,644,151,Jorge Ruiz,jóvenes
+072,EstiloPro,tiktok,marzo,2023,2819.71,636,48,Luis Gómez,adultos mayores
+073,TecnoMundo,twitter,julio,2024,2043.0,813,67,María Torres,jóvenes
+074,EcoVida,tiktok,septiembre,2024,923.45,109,189,Luis Gómez,jóvenes
+075,TecnoMundo,FACEBOOK,abril,2023,2782.8,808,155,Jorge Ruiz,profesionistas
+076,EstiloPro,facebook,marzo,2024,834.45,312,160,Luis Gómez,adolescentes
+077,EcoVida,twitter,julio,2023,2539.1,805,195,Ana Martínez,padres de familia
+078,TecnoMundo,twitter,octubre,2024,2931.63,434,17,María Torres,adolescentes
+079,EstiloPro,tiktok,febrero,2024,2555.72,830,28,Ana Martínez,profesionistas
+080,FastFit,twitter,febrero,2023,811.43,415,123,María Torres,profesionistas
+081,,tiktok,febrero,2023,997.16,667,33,No asignado,padres de familia
+082,TecnoMundo,instagram,octubre,2023,2307.7,273,45,María Torres,profesionistas
+083,FastFit,tiktok,febrero,2024,1353.74,352,194,Jorge Ruiz,
+084,EcoVida,twitter,octubre,2024,2568.97,437,122,María Torres,adolescentes
+085,FastFit,instagram,agosto,2024,1190.8,507,91,María Torres,adolescentes
+086,EcoVida,twitter,febrero,2023,2102.9,658,56,No asignado,jóvenes
+087,FastFit,facebook,julio,2024,1106.19,410,71,María Torres,adultos mayores
+088,EcoVida,tiktok,septiembre,2024,1996.02,909,102,No asignado,padres de familia
+089,,instagram,noviembre,2023,2039.08,760,183,Jorge Ruiz,profesionistas
+090,EstiloPro,instagram,agosto,2024,1660.5,890,183,No asignado,padres de familia
+091,TecnoMundo,facebook,diciembre,2023,1566.32,451,126,Luis Gómez,padres de familia
+092,FastFit,facebook,mayo,2023,2582.41,217,15,María Torres,jóvenes
+093,,instagram,junio,2024,2908.62,337,113,Luis Gómez,adultos mayores
+094,Salud Total,tiktok,octubre,2024,1655.44,821,64,Luis Gómez,profesionistas
+095,EstiloPro,instagram,junio,2024,1233.56,216,77,Jorge Ruiz,padres de familia
+096,TecnoMundo,twitter,junio,2024,2158.2,933,182,María Torres,padres de familia
+097,TecnoMundo,instagram,junio,2023,1923.81,528,162,Luis Gómez,padres de familia
+098,Salud Total,instagram,agosto,2024,1108.65,422,125,No asignado,jóvenes
+099,EcoVida,TIKTOK,julio,2024,1714.39,960,123,,adultos mayores
+100,FastFit,instagram,septiembre,2024,1170.06,568,154,Jorge Ruiz,padres de familia
